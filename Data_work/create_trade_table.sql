@@ -6,6 +6,3 @@ CREATE TABLE trade(
     rok INT, --id_daty
     wartosc INT
 );
-
--- Kolumny do usunięcia
--- 0,2,3,4,5,7,9,10,11,12,13,14,15,16,17,18,19,20,22,24,25,26,28,29
