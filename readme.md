@@ -33,6 +33,6 @@ Jak polski eksport i import reagują na kryzysy gospodarcze w wybranych krajach 
 # 2. Przetwórz
 
 ## Dane dotyczące polskiej wymiany handlowej
-1. Pobrano do folderu 'Data_raw' dane z bazy danych o wysokiej wartości [GUS] (https://dbw.stat.gov.pl/katalog/hvd) o Polskim eksporcie i imporcie towarami z lat 2012-2023 oraz [słownik](Data_work/slownik.xlsx), który został sformatowany do łatwiejszego wykorzystania.
+1. Pobrano do folderu 'Data_raw' dane z bazy danych o wysokiej wartości [GUS](https://dbw.stat.gov.pl/katalog/hvd) o Polskim eksporcie i imporcie towarami z lat 2012-2023 oraz [słownik](Data_work/slownik.xlsx), który został sformatowany do łatwiejszego wykorzystania.
 2. Za pomocą [skryptu python](Data_work/data_to_database.py) zaimportowano dane do [lokalnej bazy danych](Data_work/create_trade_raw_table.sql) utworzonej w Postgresql i wstępnie je oczyszczono.
 3. [Skrypt w SLQ](Data_work/create_trade_table.sql) oczyścił dane i dodał do docelowej tabeli w bazie danych o nazwie "trade".
