@@ -1,11 +1,12 @@
 import os
 import psycopg2
+from config import DATABASE_PASSWORD
 
 # Ustawienia połączenia z bazą danych
 conn = psycopg2.connect(
     dbname='licencjat',
     user='postgres',
-    password='321Kenarfsql?',
+    password=DATABASE_PASSWORD,
     host='localhost',
     port='5432'
 )
