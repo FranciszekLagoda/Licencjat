@@ -1,23 +1,23 @@
-id_kategoria,towar_nr,towar,towar_full
-7438236,I,Zwierzêta i produkty odzwierzêce,"[Zwierzêta ¯ywe,  Produkty Pochodzenia Zwierzêcego]"
-7438237,II,Produkty roœlinne,[Produkty Pochodzenia Roœlinnego]
-7438238,III,T³uszcze,"[T³uszcze I Oleje Pochodzenia Zwierzêcego Lub Roœlinnego Oraz Produkty Ich Rozk³adu,  Gotowe T³uszcze Jadalne,  Woski Pochodzenia Zwierzêcego Lub Roœlinnego]"
-7438239,IV,Spo¿ywcze,"[Gotowe Artyku³y Spo¿ywcze,  Napoje Bezalkoholowe i Alkoholowe I Ocet,  Tytoñ I Przemys³owe Namiastki Tytoniu]"
-7438240,IX,Drewno i podobne,"[Drewno I Art. Z Drewna,  Wêgiel Drzewny,  Korek I Art. Z Korka,  Wyroby Ze S³omy i Z Esparato Lub Innych Materia³ów Do Wyplatania,  Wyroby Koszykarskie I Z Wikliny]"
+ï»¿id_kategoria,towar_nr,towar,towar_lista
+7438236,I,ZwierzÄ™ta i produkty odzwierzÄ™ce,"[ZwierzÄ™ta Å»ywe,  Produkty Pochodzenia ZwierzÄ™cego]"
+7438237,II,Produkty roÅ›linne,[Produkty Pochodzenia RoÅ›linnego]
+7438238,III,TÅ‚uszcze,"[TÅ‚uszcze I Oleje Pochodzenia ZwierzÄ™cego Lub RoÅ›linnego Oraz Produkty Ich RozkÅ‚adu,  Gotowe TÅ‚uszcze Jadalne,  Woski Pochodzenia ZwierzÄ™cego Lub RoÅ›linnego]"
+7438239,IV,SpoÅ¼ywcze,"[Gotowe ArtykuÅ‚y SpoÅ¼ywcze,  Napoje Bezalkoholowe i Alkoholowe I Ocet,  TytoÅ„ I PrzemysÅ‚owe Namiastki Tytoniu]"
+7438240,IX,Drewno i podobne,"[Drewno I Art. Z Drewna,  WÄ™giel Drzewny,  Korek I Art. Z Korka,  Wyroby Ze SÅ‚omy i Z Esparato Lub Innych MateriaÅ‚Ã³w Do Wyplatania,  Wyroby Koszykarskie I Z Wikliny]"
 7438241,V,Produkty mineralne,[Produkty Mineralne]
-7438242,VI,Produtky chemiczne,[Produkty Przemys³u Chemicznego Lub Przemys³ów Pokrewnych]
-7438245,VII,Tworzywa sztuczne,"[Tworzywa Sztuczne I Artyku³y Z Nich,  Kauczuk I Artyku³y Z Kauczuku]"
-7438247,VIII,Skóry,"[Skóry I Skórki Surowe i Wyprawione i Futerkowe I Art. Z Nich,  Wyroby Siodlarskie I Rymarskie,  Art. Podró¿ne Itp. Pojemniki,  Art. Z Jelit Zwierz. (B. Jedwabników)]"
-7438248,X,Œcier z drewna,"[Œcier Z Drewna Lub Pozosta³ego W³óknistego Materia³u Celulozowego,  Papier Lub Tektura i Z Odzysku (Makulatura I Odpady),  Papier I Tektura Oraz Artyku³y Z Nich]"
-7438249,XI,Artyku³y w³ukiennicze,[Materia³y I Artyku³y W³ókiennicze]
-7438250,XII,"Obuwie, nakrycia g³owy itp.","[Obuwie i Nakrycia G³owy i Parasole i Laski i Sto³ki Myœliwskie i Bicze,  Szpicruty Ich Czêœci,  Pióra Preparowane i Art. Z Nich,  Kwiaty Sztuczne,  Art. Z W³osów Ludzkich]"
-7438251,XIII,Wyroby ceramiczne lub z podobnych materia³ów,"[Artyku³y Z Kamienia i Gipsu i Cementu i Azbestu i Miki Lub Podobnych Materia³ów,  Wyroby Ceramiczne,  Szk³o I Wyroby Ze Szk³a]"
-7438253,XIV,Kamienie szlachetne,"[Per³y Natur. Lub Hodow. i Kamienie Szlach. Lub Pó³szlach. i Metale Szlach. i Metale Platerowane Metalem Szlachetnym I Artyku³y Z Nich,  Sztuczna Bi¿uteria,  Monety]"
-7438254,XIX,Broñ i amunicja,[Broñ I Amunicja i Ich Czêœci I Akcesoria]
-7438255,XV,Mietale nieszlachetne,[Metale Nieszlachetne I Artyku³y Z Metali Nieszlachetnych]
-7438256,XVI,Maszyny,"[Maszyny I Urz¹dzenia Mechaniczne,  Sprzêt Elektr.,  Ich Czêœci,  Urz¹dzenia Do Rejestracji I Odtwarzania DŸwiêku I Obrazu Oraz Czêœci I Wyposa¿. Do Tych Artyku³ów]"
-7438257,XVII,Pojazdy,[Pojazdy i Statki Powietrzne i Jednostki P³ywaj¹ce Oraz Wspó³dzia³aj¹ce Urz¹dzenia Transportowe]
-7438258,XVIII,Przyrz¹dy i aparatura,"[Przyrz¹dy I Aparatura i Opt. i Fotogr. i Kinemat. i Pomiarowe i Kontrolne i Precyzyjne i Med. Lub Chirurg.,  Zegary I Zegarki,  Instrumenty Muz.,  Ich Czêœci I Akcesoria]"
-7438259,XX,Artyku³y przemys³owe,[Artyku³y Przemys³owe Ró¿ne]
-7438260,XXI,Dzie³a sztuki,[Dzie³a Sztuki i Przedmioty Kolekcjonerskie I Antyki]
-7438267,Ogó³em,Ogó³em,[Ogó³em]
+7438242,VI,Produtky chemiczne,[Produkty PrzemysÅ‚u Chemicznego Lub PrzemysÅ‚Ã³w Pokrewnych]
+7438245,VII,Tworzywa sztuczne,"[Tworzywa Sztuczne I ArtykuÅ‚y Z Nich,  Kauczuk I ArtykuÅ‚y Z Kauczuku]"
+7438247,VIII,SkÃ³ry,"[SkÃ³ry I SkÃ³rki Surowe i Wyprawione i Futerkowe I Art. Z Nich,  Wyroby Siodlarskie I Rymarskie,  Art. PodrÃ³Å¼ne Itp. Pojemniki,  Art. Z Jelit Zwierz. (B. JedwabnikÃ³w)]"
+7438248,X,Åšcier z drewna,"[Åšcier Z Drewna Lub PozostaÅ‚ego WÅ‚Ã³knistego MateriaÅ‚u Celulozowego,  Papier Lub Tektura i Z Odzysku (Makulatura I Odpady),  Papier I Tektura Oraz ArtykuÅ‚y Z Nich]"
+7438249,XI,ArtykuÅ‚y wÅ‚ukiennicze,[MateriaÅ‚y I ArtykuÅ‚y WÅ‚Ã³kiennicze]
+7438250,XII,"Obuwie, nakrycia gÅ‚owy itp.","[Obuwie i Nakrycia GÅ‚owy i Parasole i Laski i StoÅ‚ki MyÅ›liwskie i Bicze,  Szpicruty Ich CzÄ™Å›ci,  PiÃ³ra Preparowane i Art. Z Nich,  Kwiaty Sztuczne,  Art. Z WÅ‚osÃ³w Ludzkich]"
+7438251,XIII,Wyroby ceramiczne lub z podobnych materiaÅ‚Ã³w,"[ArtykuÅ‚y Z Kamienia i Gipsu i Cementu i Azbestu i Miki Lub Podobnych MateriaÅ‚Ã³w,  Wyroby Ceramiczne,  SzkÅ‚o I Wyroby Ze SzkÅ‚a]"
+7438253,XIV,Kamienie szlachetne,"[PerÅ‚y Natur. Lub Hodow. i Kamienie Szlach. Lub PÃ³Å‚szlach. i Metale Szlach. i Metale Platerowane Metalem Szlachetnym I ArtykuÅ‚y Z Nich,  Sztuczna BiÅ¼uteria,  Monety]"
+7438254,XIX,BroÅ„ i amunicja,[BroÅ„ I Amunicja i Ich CzÄ™Å›ci I Akcesoria]
+7438255,XV,Mietale nieszlachetne,[Metale Nieszlachetne I ArtykuÅ‚y Z Metali Nieszlachetnych]
+7438256,XVI,Maszyny,"[Maszyny I UrzÄ…dzenia Mechaniczne,  SprzÄ™t Elektr.,  Ich CzÄ™Å›ci,  UrzÄ…dzenia Do Rejestracji I Odtwarzania DÅºwiÄ™ku I Obrazu Oraz CzÄ™Å›ci I WyposaÅ¼. Do Tych ArtykuÅ‚Ã³w]"
+7438257,XVII,Pojazdy,[Pojazdy i Statki Powietrzne i Jednostki PÅ‚ywajÄ…ce Oraz WspÃ³Å‚dziaÅ‚ajÄ…ce UrzÄ…dzenia Transportowe]
+7438258,XVIII,PrzyrzÄ…dy i aparatura,"[PrzyrzÄ…dy I Aparatura i Opt. i Fotogr. i Kinemat. i Pomiarowe i Kontrolne i Precyzyjne i Med. Lub Chirurg.,  Zegary I Zegarki,  Instrumenty Muz.,  Ich CzÄ™Å›ci I Akcesoria]"
+7438259,XX,ArtykuÅ‚y przemysÅ‚owe,[ArtykuÅ‚y PrzemysÅ‚owe RÃ³Å¼ne]
+7438260,XXI,DzieÅ‚a sztuki,[DzieÅ‚a Sztuki i Przedmioty Kolekcjonerskie I Antyki]
+7438267,OgÃ³Å‚em,OgÃ³Å‚em,[OgÃ³Å‚em]
