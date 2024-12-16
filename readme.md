@@ -35,12 +35,12 @@ Jak polski eksport i import reagują na kryzysy gospodarcze w wybranych krajach 
 ## Dane dotyczące polskiej wymiany handlowej
 ### Dane
 1. Pobrano do folderu 'Data_raw' dane z bazy danych o wysokiej wartości [GUS](https://dbw.stat.gov.pl/katalog/hvd) o Polskim eksporcie i imporcie towarami z lat 2012-2023.
-2. Za pomocą [skryptu python](Data_work/data_to_database.py) zaimportowano dane do [lokalnej bazy danych](Data_work/create_trade_raw_table.sql) utworzonej w PostgreSQL i wstępnie je oczyszczono.
-3. [Skrypt w SLQ](Data_work/create_trade_table.sql) oczyścił dane i dodał do docelowej tabeli w bazie danych o nazwie "trade".
+2. Za pomocą [skryptu python](2_Przygotuj/Python scripts/data_to_database.py) zaimportowano dane do [lokalnej bazy danych](2_Przygotuj/SQL queries/create_trade_raw_table.sql) utworzonej w PostgreSQL i wstępnie je oczyszczono.
+3. [Skrypt w SLQ](2_Przygotuj/SQL queries/create_trade_table.sql) oczyścił dane i dodał do docelowej tabeli w bazie danych o nazwie "trade".
 ### Słownik
-1. Pobrano odpowiednie słowniki GUS do danych oraz połączono je w [pliku excela](Data_work/slownik.xlsx) oraz rozdzielono słownik na kategorie.
+1. Pobrano odpowiednie słowniki GUS do danych oraz połączono je w [pliku Excela](Data_work/slownik.xlsx) oraz rozdzielono słownik na kategorie.
 2. Korzystając z Chat GPT dodano kolumnę kontynent do do słownika.
-3. Korzystając z formuł excel i z edytora PowerQuery sformatowano słowniki.
+3. Korzystając z formuł Excel i z edytora PowerQuery sformatowano słowniki.
 4. Każdy słownik został zapisany oddzielnie jako plik csv w folderze [słowniki](2_Przygotuj/Slowniki).
 5. [Skrypt w SQL](Data_work/create_slownik_tables.sql) utworzył odpowiednie tabele słowników i zapisał w nich dane.
 
