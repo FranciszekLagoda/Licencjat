@@ -40,8 +40,8 @@ Jak polski eksport i import reagują na kryzysy gospodarcze w wybranych krajach 
 ### Słownik
 1. Pobrano odpowiednie słowniki GUS do danych oraz połączono je w [pliku excela](Data_work\slownik.xlsx) oraz rozdzielono słownik na kategorie.
 2. Korzystając z Chat GPT dodano kolumnę kontynent do do słownika.
-3. Korzystając z formuł excel i z edytora PowerQuery sformatowano słowniki, tym dodano kolumnę z listą elementów w każdej z kategorii.
-4. Każdy słownik został zapisany oddzielnie jako plik csv.
+3. Korzystając z formuł excel i z edytora PowerQuery sformatowano słowniki.
+4. Każdy słownik został zapisany oddzielnie jako plik csv w folderze [słowniki]().
 5. [Skrypt w SQL](Data_work\create_slownik_tables.sql) utworzył odpowiednie tabele słowników i załadował do nich dane.
 
 

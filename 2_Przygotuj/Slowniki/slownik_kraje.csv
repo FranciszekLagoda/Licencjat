@@ -1,0 +1,213 @@
+﻿id_kraj,kraj,czy_kraj,Kontynent,czy_UE
+6649664,Ogółem,FALSE,Inne,FALSE
+7276956,"Niew.kr.i teryt, p. handl.i mil",FALSE,Inne,FALSE
+7276957,Niewyszczególnione kr. i teryt.,FALSE,Inne,FALSE
+7277327,Pełne morze,FALSE,Inne,FALSE
+7277329,"Zap. i zaop. statków, niezn.arm.",FALSE,Inne,FALSE
+7277330,QQ w ramach handlu z UE,FALSE,Inne,FALSE
+7277331,QQ w ramach handlu z kr.trzecimi,FALSE,Inne,FALSE
+7277333,QU w ramach handlu z kr.trzecimi,FALSE,Inne,FALSE
+7277396,QU w ramach handlu z UE,FALSE,Inne,FALSE
+7277399,QX w ramach handlu z UE,FALSE,Inne,FALSE
+6649670,Antarktyda,FALSE,Antarktyda,FALSE
+6649673,Wallis i Futuna,TRUE,Oceania,FALSE
+6649679,Papua-Nowa Gwinea,TRUE,Oceania,FALSE
+6649681,Wyspy Marshalla,TRUE,Oceania,FALSE
+6649684,Mariany Północne,TRUE,Oceania,FALSE
+6649687,Nowa Zelandia,TRUE,Oceania,FALSE
+6649689,Nowa Kaledonia,TRUE,Oceania,FALSE
+6649692,Guam,TRUE,Oceania,FALSE
+6649695,Polinezja Francuska,TRUE,Oceania,FALSE
+6649696,Fidżi,TRUE,Oceania,FALSE
+6649699,Australia,TRUE,Oceania,FALSE
+6649701,Zambia,TRUE,Afryka,FALSE
+6649702,Burkina Faso,TRUE,Afryka,FALSE
+6649703,Tanzania,TRUE,Afryka,FALSE
+6649704,Egipt,TRUE,Afryka,FALSE
+6649705,Uganda,TRUE,Afryka,FALSE
+6649706,Tunezja,TRUE,Afryka,FALSE
+6649707,Togo,TRUE,Afryka,FALSE
+6649709,Sudan Południowy,TRUE,Afryka,FALSE
+6649710,Sudan,TRUE,Afryka,FALSE
+6649712,Zimbabwe,TRUE,Afryka,FALSE
+6649714,Somalia,TRUE,Afryka,FALSE
+6649715,Sierra Leone,TRUE,Afryka,FALSE
+6649716,Seszele,TRUE,Afryka,FALSE
+6649717,Senegal,TRUE,Afryka,FALSE
+6649721,Rwanda,TRUE,Afryka,FALSE
+6649724,Nigeria,TRUE,Afryka,FALSE
+6649725,Niger,TRUE,Afryka,FALSE
+6649726,Namibia,TRUE,Afryka,FALSE
+6649727,Mozambik,TRUE,Afryka,FALSE
+6649728,Maroko,TRUE,Afryka,FALSE
+6649729,Mauritius,TRUE,Afryka,FALSE
+6649730,Mauretania,TRUE,Afryka,FALSE
+6649731,Mali,TRUE,Afryka,FALSE
+6649732,Malawi,TRUE,Afryka,FALSE
+6649733,Madagaskar,TRUE,Afryka,FALSE
+6649734,Libia,TRUE,Afryka,FALSE
+6649735,Liberia,TRUE,Afryka,FALSE
+6649737,Kenia,TRUE,Afryka,FALSE
+6649738,Wybrzeże Kości Słoniowej,TRUE,Afryka,FALSE
+6649739,Gwinea,TRUE,Afryka,FALSE
+6649740,Ghana,TRUE,Afryka,FALSE
+6649742,Gabon,TRUE,Afryka,FALSE
+6649743,Dżibuti,TRUE,Afryka,FALSE
+6649744,Erytrea,TRUE,Afryka,FALSE
+6649745,Etiopia,TRUE,Afryka,FALSE
+6649746,Gwinea Równikowa,TRUE,Afryka,FALSE
+6649747,Benin,TRUE,Afryka,FALSE
+6649749,Kongo,TRUE,Afryka,FALSE
+6649750,Demokratyczna Republika Konga,TRUE,Afryka,FALSE
+6649752,Komory,TRUE,Afryka,FALSE
+6649753,Czad,TRUE,Afryka,FALSE
+6649754,Republika Środkowoafrykańska,TRUE,Afryka,FALSE
+6649756,Kamerun,TRUE,Afryka,FALSE
+6649757,Burundi,TRUE,Afryka,FALSE
+6649759,Botswana,TRUE,Afryka,FALSE
+6649760,Angola,TRUE,Afryka,FALSE
+6649762,Ceuta,TRUE,Afryka,FALSE
+6649763,Algieria,TRUE,Afryka,FALSE
+6649764,Wenezuela,TRUE,Ameryka Południowa,FALSE
+6649765,Urugwaj,TRUE,Ameryka Południowa,FALSE
+6649766,Surinam,TRUE,Ameryka Południowa,FALSE
+6649767,Peru,TRUE,Ameryka Południowa,FALSE
+6649768,Paragwaj,TRUE,Ameryka Południowa,FALSE
+6649769,"Bonaire, Sint Eustatius i Saba",TRUE,Ameryka Południowa,FALSE
+6649770,Aruba,TRUE,Ameryka Południowa,FALSE
+6649772,Gujana,TRUE,Ameryka Południowa,FALSE
+6649775,Falklandy,TRUE,Ameryka Południowa,FALSE
+6649776,Ekwador,TRUE,Ameryka Południowa,FALSE
+6649777,Kolumbia,TRUE,Ameryka Południowa,FALSE
+6649778,Chile,TRUE,Ameryka Południowa,FALSE
+6649779,Brazylia,TRUE,Ameryka Południowa,FALSE
+6649780,Boliwia,TRUE,Ameryka Południowa,FALSE
+6649781,Argentyna,TRUE,Ameryka Południowa,FALSE
+6649782,Wyspy Dziewicze Stanów Zjednoczonych,TRUE,Ameryka Północna,FALSE
+6649783,Stany Zjednoczone,TRUE,Ameryka Północna,FALSE
+6649785,Trynidad i Tobago,TRUE,Ameryka Północna,FALSE
+6649787,Saint  Pierre i Miquelon,TRUE,Ameryka Północna,FALSE
+6649789,Saint Lucia,TRUE,Ameryka Północna,FALSE
+6649791,Saint Kitts i Nevis,TRUE,Ameryka Północna,FALSE
+6649794,Panama,TRUE,Ameryka Północna,FALSE
+6649795,Nikaragua,TRUE,Ameryka Północna,FALSE
+6649799,Meksyk,TRUE,Ameryka Północna,FALSE
+6649801,Jamajka,TRUE,Ameryka Północna,FALSE
+6649802,Honduras,TRUE,Ameryka Północna,FALSE
+6649803,Haiti,TRUE,Ameryka Północna,FALSE
+6649804,Gwatemala,TRUE,Ameryka Północna,FALSE
+6649807,Grenlandia,TRUE,Ameryka Północna,FALSE
+6649808,Salwador,TRUE,Ameryka Północna,FALSE
+6649809,Dominika,TRUE,Ameryka Północna,FALSE
+6649810,Kuba,TRUE,Ameryka Północna,FALSE
+6649811,Kostaryka,TRUE,Ameryka Północna,FALSE
+6649812,Kajmany,TRUE,Ameryka Północna,FALSE
+6649813,Kanada,TRUE,Ameryka Północna,FALSE
+6649814,Brytyjskie Wyspy Dziewicze,TRUE,Ameryka Północna,FALSE
+6649815,Belize,TRUE,Ameryka Północna,FALSE
+6649816,Bermudy,TRUE,Ameryka Północna,FALSE
+6649817,Barbados,TRUE,Ameryka Północna,FALSE
+6649818,Antigua i Barbuda,TRUE,Ameryka Północna,FALSE
+6649819,Jemen,TRUE,Azja,FALSE
+6649820,Uzbekistan,TRUE,Azja,FALSE
+6649822,Turkmenistan,TRUE,Azja,FALSE
+6649823,Zjednoczone Emiraty Arabskie,TRUE,Azja,FALSE
+6649824,Tajlandia,TRUE,Azja,FALSE
+6649826,Tadżykistan,TRUE,Azja,FALSE
+6649827,Syria,TRUE,Azja,FALSE
+6649829,Singapur,TRUE,Azja,FALSE
+6649830,Arabia Saudyjska,TRUE,Azja,FALSE
+6649831,Katar,TRUE,Azja,FALSE
+6649833,Filipiny,TRUE,Azja,FALSE
+6649834,Pakistan,TRUE,Azja,FALSE
+6649835,Nepal,TRUE,Azja,FALSE
+6649836,Oman,TRUE,Azja,FALSE
+6649837,Mongolia,TRUE,Azja,FALSE
+6649838,Malediwy,TRUE,Azja,FALSE
+6649839,Malezja,TRUE,Azja,FALSE
+6649841,Liban,TRUE,Azja,FALSE
+6649843,Laos,TRUE,Azja,FALSE
+6649844,Kirgistan,TRUE,Azja,FALSE
+6649845,Kuwejt,TRUE,Azja,FALSE
+6649846,Korea Południowa,TRUE,Azja,FALSE
+6649848,Jordania,TRUE,Azja,FALSE
+6649849,Kazachstan,TRUE,Azja,FALSE
+6649850,Japonia,TRUE,Azja,FALSE
+6649851,Izrael,TRUE,Azja,FALSE
+6649852,Irak,TRUE,Azja,FALSE
+6649853,Iran,TRUE,Azja,FALSE
+6649854,Indonezja,TRUE,Azja,FALSE
+6649855,Indie,TRUE,Azja,FALSE
+6649857,Palestyna,TRUE,Azja,FALSE
+6649858,Gruzja,TRUE,Azja,FALSE
+6649862,Chiny,TRUE,Azja,FALSE
+6649863,Sri Lanka,TRUE,Azja,FALSE
+6649864,Kambodża,TRUE,Azja,FALSE
+6649865,Mjanma (Birma),TRUE,Azja,FALSE
+6649866,Brunei,TRUE,Azja,FALSE
+6649868,Bhutan,TRUE,Azja,FALSE
+6649869,Armenia,TRUE,Azja,FALSE
+6649870,Bangladesz,TRUE,Azja,FALSE
+6649871,Bahrajn,TRUE,Azja,FALSE
+6649872,Azerbejdżan,TRUE,Azja,FALSE
+6649873,Afganistan,TRUE,Azja,FALSE
+6649877,Wielka Brytania,TRUE,Europa,FALSE
+6649879,Ukraina,TRUE,Europa,FALSE
+6649880,Turcja,TRUE,Europa,FALSE
+6649881,Szwajcaria,TRUE,Europa,FALSE
+6649882,Szwecja,TRUE,Europa,TRUE
+6649884,Hiszpania,TRUE,Europa,TRUE
+6649885,Słowenia,TRUE,Europa,TRUE
+6649886,Słowacja,TRUE,Europa,TRUE
+6649887,San Marino,TRUE,Europa,FALSE
+6649888,Rosja,TRUE,Europa,FALSE
+6649889,Rumunia,TRUE,Europa,TRUE
+6649890,Portugalia,TRUE,Europa,TRUE
+6649892,Norwegia,TRUE,Europa,FALSE
+6649893,Kosowo,TRUE,Europa,FALSE
+6649894,Holandia,TRUE,Europa,TRUE
+6649895,Czarnogóra,TRUE,Europa,FALSE
+6649896,Mołdawia,TRUE,Europa,FALSE
+6649898,Malta,TRUE,Europa,TRUE
+6649899,Luksemburg,TRUE,Europa,TRUE
+6649900,Litwa,TRUE,Europa,TRUE
+6649901,Liechtenstein,TRUE,Europa,FALSE
+6649902,Łotwa,TRUE,Europa,TRUE
+6649903,Włochy,TRUE,Europa,TRUE
+6649904,Irlandia,TRUE,Europa,TRUE
+6649905,Islandia,TRUE,Europa,FALSE
+6649906,Węgry,TRUE,Europa,TRUE
+6649907,Watykan,TRUE,Europa,FALSE
+6649908,Grecja,TRUE,Europa,TRUE
+6649909,Gibraltar,TRUE,Europa,FALSE
+6649910,Niemcy,TRUE,Europa,TRUE
+6649911,Francja,TRUE,Europa,TRUE
+6649913,Finlandia,TRUE,Europa,TRUE
+6649914,Wyspy Owcze,TRUE,Europa,FALSE
+6649915,Estonia,TRUE,Europa,TRUE
+6649916,Dania,TRUE,Europa,TRUE
+6649917,Cypr,TRUE,Europa,TRUE
+6649918,Chorwacja,TRUE,Europa,TRUE
+6649919,Białoruś,TRUE,Europa,FALSE
+6649920,Bułgaria,TRUE,Europa,TRUE
+6649921,Bośnia i Hercegowina,TRUE,Europa,FALSE
+6649922,Belgia,TRUE,Europa,TRUE
+6649923,Austria,TRUE,Europa,TRUE
+6649924,Andora,TRUE,Europa,FALSE
+6649925,Albania,TRUE,Europa,FALSE
+6649941,Dominikana,TRUE,Ameryka Północna,FALSE
+6649951,Serbia,TRUE,Europa,FALSE
+7437335,Macedonia Północna,TRUE,Europa,FALSE
+7439975,Czechy,TRUE,Europa,TRUE
+7463787,Saint-Barthélemy,TRUE,Ameryka Północna,FALSE
+7463815,Curaçao,TRUE,Ameryka Północna,FALSE
+7473138,Bahamy,TRUE,Ameryka Północna,FALSE
+7473154,Republika Zielonego Przylądka,TRUE,Afryka,FALSE
+7475101,Gambia,TRUE,Afryka,FALSE
+7475865,Hongkong,TRUE,Azja,FALSE
+7548214,Makau,TRUE,Azja,FALSE
+7548327,Sint Maarten (część niderlandzka),TRUE,Ameryka Północna,FALSE
+7548413,Francuskie Terytoria Południowe,TRUE,Antarktyda,FALSE
+7548478,Tajwan,TRUE,Azja,FALSE
+7548674,Wietnam,TRUE,Azja,FALSE
+7548785,Południowa Afryka,TRUE,Afryka,FALSE
