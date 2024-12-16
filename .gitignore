@@ -1,4 +1,5 @@
 /Data_raw
 /.vscode
-/config.py
+/Data_work/config.py
+/2_Przygotuj/config.py
 /__pycache__
