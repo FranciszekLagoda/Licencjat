@@ -24,14 +24,14 @@ CREATE TABLE  slownik_zmienna (
 -- Załadowanie danych ze slownika do odpowiednich tabel
 
 COPY slownik_kraj
-FROM 'C:/Dokumenty/Licencjat/Data_work/Slowniki/slownik_kraje.csv'
+FROM 'C:/Dokumenty/Licencjat/2_Przygotuj/Slowniki/slownik_kraje.csv'
 WITH (Format csv, Delimiter ',', encoding 'UTF8', Header);
 
 COPY slownik_kategoria
-FROM 'C:/Dokumenty/Licencjat/Data_work/Slowniki/slownik_kategoria.csv'
+FROM 'C:/Dokumenty/Licencjat/2_Przygotuj/Slowniki/slownik_kategoria.csv'
 WITH (Format csv, Delimiter ',', encoding 'UTF8', Header);
 
 COPY slownik_zmienna
-FROM 'C:/Dokumenty/Licencjat/Data_work/Slowniki/slownik_zmienna.csv'
+FROM 'C:/Dokumenty/Licencjat/2_Przygotuj/Slowniki/slownik_zmienna.csv'
 WITH (Format csv, Delimiter ',', encoding 'UTF8', Header);
 

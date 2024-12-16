@@ -13,7 +13,7 @@ conn = psycopg2.connect(
 cur = conn.cursor()
 
 # Ścieżka do folderu z plikami CSV
-folder_path = r'C:\Dokumenty\Licencjat\Data_raw'
+folder_path = r'2_Przygotuj\Data_raw'
 
 # Iterowanie przez pliki w folderze
 for filename in os.listdir(folder_path):
