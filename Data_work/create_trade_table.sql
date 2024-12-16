@@ -42,3 +42,8 @@ SET data = TO_DATE(rok::TEXT || '-' || miesiac::TEXT || '-01', 'YYYY-MM-DD');
 ALTER TABLE trade
 DROP COLUMN rok,
 DROP COLUMN miesiac;
+
+--Dodanie indeksów aby przyspieszyć działanie zapytań
+CREATE index idx_kraj on trade (id_kraj);
+CREATE index idx_kategoria on trade (id_kategoria);
+CREATE index id_kraj_kategoria on trade(id_kraj,id_kategoria);

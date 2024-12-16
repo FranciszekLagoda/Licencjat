@@ -2,7 +2,7 @@
 Zapraszam do zapoznania się z moją analizą dotyczącą tego jak polski eksport i import reaguje na kryzysy gospodarcze w kraju trzecim. Projekt realizowany jest jako moja praca licencjacka na kierunku ekonomia na Uniwersytecie Ekonomicznym we Wrocławiu.
 
 ## Etapy analizy
-Analiza została podzielona według metodologii stosowanej w Google czyli:
+Analiza została podzielona według metodologii analizy danych stosowanej w Google czyli:
 1. Zapytaj
 2. Przygotuj
 3. Przetwórz
@@ -30,9 +30,11 @@ Jak polski eksport i import reagują na kryzysy gospodarcze w wybranych krajach 
 * Istnieje istotna różnica w strukturze towarowej eksportu i importu Polski w odpowiedzi na kryzysy gospodarcze w krajach trzecich, co może prowadzić do zmian w dominujących sektorach gospodarki.
 * Zmiany w poziomie eksportu i importu mogą działać jako wczesne sygnały ostrzegawcze dla potencjalnych kryzysów gospodarczych w Polsce, umożliwiając wcześniejsze podjęcie działań prewencyjnych.
 
-# 2. Przetwórz
+# 2. Przygotuj
 
 ## Dane dotyczące polskiej wymiany handlowej
 1. Pobrano do folderu 'Data_raw' dane z bazy danych o wysokiej wartości [GUS](https://dbw.stat.gov.pl/katalog/hvd) o Polskim eksporcie i imporcie towarami z lat 2012-2023 oraz [słownik](Data_work/slownik.xlsx), który został sformatowany do łatwiejszego wykorzystania.
-2. Za pomocą [skryptu python](Data_work/data_to_database.py) zaimportowano dane do [lokalnej bazy danych](Data_work/create_trade_raw_table.sql) utworzonej w Postgresql i wstępnie je oczyszczono.
+2. Za pomocą [skryptu python](Data_work/data_to_database.py) zaimportowano dane do [lokalnej bazy danych](Data_work/create_trade_raw_table.sql) utworzonej w PostgreSQL i wstępnie je oczyszczono.
 3. [Skrypt w SLQ](Data_work/create_trade_table.sql) oczyścił dane i dodał do docelowej tabeli w bazie danych o nazwie "trade".
+
+## Jakie państwa prowadzą z Polską wystarczająco intensywną wymianę handlową aby nadawała się do skutecznej analizy
