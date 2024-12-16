@@ -18,7 +18,7 @@ Jak polski eksport i import reagują na kryzysy gospodarcze w wybranych krajach 
 
 ## Dopełniające pytania badawcze
 * Jakie państwa prowadzą z Polską wystarczająco intensywną wymianę handlową aby nadawała się do skutecznej analizy?
-* Co oznacza, jak zidentyfikować pojawienie się w danym państwie kryzysu gospodarczego?
+* Co oznacza, i jak zidentyfikować pojawienie się w danym państwie kryzysu gospodarczego?
 * Jakie były państwa spełniająca kryterium wielkości wymiany handlowej i zaistnienia kryzysu?
 * Jaki był ogólny trend w różnicach między reakcją importu a eksportu na kryzys?
 * Czy występowały prawidłowości pod względem zmiany w strukturze eksportu i importu?
