@@ -38,11 +38,14 @@ Jak polski eksport i import reagują na kryzysy gospodarcze w wybranych krajach 
 2. Za pomocą [skryptu python](Data_work/data_to_database.py) zaimportowano dane do [lokalnej bazy danych](Data_work/create_trade_raw_table.sql) utworzonej w PostgreSQL i wstępnie je oczyszczono.
 3. [Skrypt w SLQ](Data_work/create_trade_table.sql) oczyścił dane i dodał do docelowej tabeli w bazie danych o nazwie "trade".
 ### Słownik
-1. Pobrano odpowiednie słowniki GUS do danych oraz połączono je w [pliku excela](Data_work\slownik.xlsx) oraz rozdzielono słownik na kategorie.
+1. Pobrano odpowiednie słowniki GUS do danych oraz połączono je w [pliku excela](Data_work/slownik.xlsx) oraz rozdzielono słownik na kategorie.
 2. Korzystając z Chat GPT dodano kolumnę kontynent do do słownika.
 3. Korzystając z formuł excel i z edytora PowerQuery sformatowano słowniki.
-4. Każdy słownik został zapisany oddzielnie jako plik csv w folderze [słowniki]().
-5. [Skrypt w SQL](Data_work\create_slownik_tables.sql) utworzył odpowiednie tabele słowników i załadował do nich dane.
+4. Każdy słownik został zapisany oddzielnie jako plik csv w folderze [słowniki](2_Przygotuj/Slowniki).
+5. [Skrypt w SQL](Data_work/create_slownik_tables.sql) utworzył odpowiednie tabele słowników i zapisał w nich dane.
 
 
 ## Jakie państwa prowadzą z Polską wystarczająco intensywną wymianę handlową aby nadawała się do skutecznej analizy
+### Analiza teoretyczna
+
+###
